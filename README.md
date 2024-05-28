@@ -64,5 +64,5 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=drez&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=drez&&style=flat-square" align="center" style='display:none;' />
 </div>  
