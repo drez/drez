@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Solana blockchain paradigm!
 - 🌱 I’m currently learning RUST and TS
  - Javascript is a mess, thank god for Typescript
-- 💬 Ask me about the good old days!
 - 📫 How to reach me: fred@apigoat.com
 
 ## My Skill Set  
